@@ -3,9 +3,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=error-504941&label=Profile%20views&color=0e75b6&style=flat" alt="error-504941" /></p>
 
-- 🌱 I’m currently learning **React, microservices andf Udemy courses**
+- 🌱 I’m currently learning: **React, microservices and Udemy courses**
 
-- ⚡ Fun fact **I want to change the world but they wouldn't give me the source code!**
+- ⚡ Fun fact: **I want to change the world but they wouldn't give me the source code!**
 
 
 <h3 align="left">Languages and Tools:</h3>
